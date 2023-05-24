@@ -205,7 +205,7 @@ function Index() {
                         <div class="card">
                             <div class="card-body bg-warning">
                                 <h5 class="card-title">Voltage</h5>
-                                <h1><i class="bi bi-lightning-charge-fill">{data1.voltage}</i> Volt</h1>
+                                <h1><i class="bi bi-lightning-charge-fill">{data1.voltage}</i> V</h1>
                             </div>
                         </div>
                     </div>
