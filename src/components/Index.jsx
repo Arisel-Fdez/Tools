@@ -189,7 +189,7 @@ function Index() {
                         <div class="card bg-info" >
                             <div class="card-body">
                                 <h5 class="card-title">Temperatura</h5>
-                                <h1><i class="bi bi-thermometer-snow">{data1.temperature}</i> 'C</h1>
+                                <h1><i class="bi bi-thermometer-snow">{data1.temperature}</i> °C</h1>
                             </div>
                         </div>
                     </div>
