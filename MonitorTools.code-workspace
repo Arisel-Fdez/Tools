@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../MonitorTools"
+		},
+		{
+			"name": "hostpot",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hostpot"
+	}
+}

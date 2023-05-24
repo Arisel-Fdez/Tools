@@ -1,0 +1,27 @@
+<html>
+    <head>
+      <style>
+        body { background-color: #000000; color: #fff; font-family: Arial, sans-serif; }
+        form { margin: 0 auto; width: 200px; padding: 20px; border-radius: 10px; background-color: #252525; }
+        select, input[type="text"], input[type="submit"] { width: 100%; padding: 10px; margin-bottom: 10px; }
+        input[type="submit"] { background-color: #4CAF50; border: none; color: white; }
+      </style>
+    </head>
+    <body>
+      <form action="/configure" method="POST">
+        <h1 style="text-align: center;margin-bottom: 20px; color: #0CFFFF;">FdezDev</h1>
+        SSID:
+        <select style="border-radius: 10px; background-color: #ffffff;" name="ssid">
+  )=====";
+  for (int i = 0; i < n; ++i)
+  {
+    html += "<option>" + WiFi.SSID(i) + "</option>";
+  }
+  html += R"=====(
+        </select><br>
+        PASSWORD:
+        <input style="border-radius: 10px; background-color: #ffffff;" type="text" name="password"><br>
+        <input style="display: block; margin: 0 auto; text-align: center; border-radius: 10px; width: 50%; background-color: #4389e5;" type="submit" value="Conectar">
+      </form>
+    </body>
+    </html>
