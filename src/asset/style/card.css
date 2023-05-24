@@ -1,0 +1,15 @@
+.container-Card{
+    width: 300px;
+    height: 500px;
+    margin: 10px;
+    background-color:rgba(255, 255, 255, 0.674);
+    border-radius: 20px;
+    border: 2px solid rgb(61, 80, 250);
+       
+}
+
+.card-img-top{
+    border-radius: 20px;
+    height: 200px;
+
+}
