@@ -1,0 +1,13 @@
+.NotFound {
+    background-image: url(/src/asset/img/NotFount);
+    background-position:  center;
+    text-align: center;
+    height: 100vmin;
+    width: 100vmax;
+    pointer-events: none;
+}
+
+.text-fdez{
+    font-size: 5vmin;
+    color: rgb(255, 255, 255);
+}
